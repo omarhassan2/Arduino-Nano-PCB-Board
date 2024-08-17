@@ -6,23 +6,17 @@ This project involves designing a custom PCB board for the Arduino Nano using Al
 ## Schematic
 Below is the schematic diagram for the Arduino Nano PCB Board, showcasing the connections and components used.
 
-![Schematic](./images/schematic.png)
+![Schematic](./Schematic.png)
 
 ## PCB Layout
-### Top Layer
-The top layer layout of the PCB, showing the placement of components and routing.
+The double layers layout of the PCB, showing the placement of components and routing.
 
-![Top Layer](./images/pcb_top.png)
-
-### Bottom Layer
-The bottom layer layout of the PCB.
-
-![Bottom Layer](./images/pcb_bottom.png)
+![PCB Layout](./PCB%20Layout.png)
 
 ## 3D View
 A 3D view of the Arduino Nano PCB Board, giving a realistic representation of the final product.
 
-![3D View](./images/pcb_3d.png)
+![3D View](./PCB%20Board.png)
 
 ## Features
 - **Custom Design:** Tailored for Arduino Nano with optimized component placement and routing.
